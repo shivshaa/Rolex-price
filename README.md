@@ -17,3 +17,5 @@ First, I built a path to connect to the SQL server, followed by using the conn =
 After connecting the data to the SQL server via Python, I read the data directly from the database.
 To learn about the summary of watch prices with different models, I used dataframe.describe() to view the whole summary.
 I created a graph to show the average price of each watches based on its model.
+
+![price chart](price.png)
